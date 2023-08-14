@@ -4,8 +4,19 @@ SpreeInpostIntegration
 Spree integration with inPost Api.
 
 
-Instalation
+Installation
 ----------------
+
+Add gem to `Gemfile`:
+
+```console
+gem 'spree_inpost_integration', github: 'MichalNowak22/spree_inpost_integration'
+```
+
+Install gem:
+```console
+rails g spree_inpost_integration:install
+```
 
 
 Configuration
